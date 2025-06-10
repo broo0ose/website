@@ -4,7 +4,7 @@ date: "2025-06-04T18:41:42.206Z"
 poster: "Mark Dominus"
 lat: "41.356885"
 lng: "-72.093993"
-location: "Cross Sound Ferry, Ferry Street, Downtown New London Historic District, Downtown New London, New London, Southeastern Connecticut Planning Region, Connecticut, 06320, United States"
+location: "Cross Sound Ferry, Ferry Street, Downtown New London Historic District, Downtown New London, Connecticut, 06320, United States"
 title: "Cross Sound Ferry"
 external_url: https://www.dhs.gov/science-and-technology/plum-island-animal-disease-center
 ---
