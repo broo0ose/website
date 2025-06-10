@@ -1,7 +1,7 @@
 ---
 slug: "daytrip/eu/gb/the-watercress-line"
 title: The Watercress Line
-location: Station Approach, The Soke, New Alresford, Winchester, Hampshire, England, SO24 9JH, United Kingdom
+location: Station Approach, The Soke, New Alresford, Winchester, Hampshire, SO24 9JH, United Kingdom
 poster: popey
 date: '2025-05-24T17:47:36'
 lat: '51.088381'

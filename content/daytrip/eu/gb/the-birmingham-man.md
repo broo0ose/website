@@ -3,7 +3,7 @@ slug: daytrip/eu/gb/the-birmingham-man
 date: '2025-05-25T10:15:15'
 lat: '52.4798132'
 lng: '-1.9042805'
-location: 'The Birmingham Man, Chamberlain Square, Ladywood, Birmingham, West Midlands, England, B3 3DQ, United Kingdom'
+location: 'The Birmingham Man, Chamberlain Square, Ladywood, Birmingham, West Midlands, B3 3DQ, United Kingdom'
 title: 'The Birmingham Man: Thomas Attwood (1783-1856)'
 external_url: https://www.siobancoppinger.co.uk/work/94b1a/
 poster: "Stuart Langridge"

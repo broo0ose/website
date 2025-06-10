@@ -4,7 +4,7 @@ date: '2025-05-31T12:33:34.565Z'
 poster: 'popey'
 lat: '51.284843'
 lng: '-0.760999'
-location: 'Portable Airship Hangar, Fowler Avenue, Farnborough Business Park, Farnborough, Rushmoor, Hampshire, England, GU14 7JF, United Kingdom'
+location: 'Portable Airship Hangar, Fowler Avenue, Farnborough Business Park, Farnborough, Rushmoor, Hampshire, GU14 7JF, United Kingdom'
 title: 'Portable Airship Hangar'
 external_url: https://historicengland.org.uk/listing/the-list/list-entry/1393074
 ---

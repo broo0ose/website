@@ -4,7 +4,7 @@ date: '2025-05-31T15:36:48.378Z'
 poster: 'popey'
 lat: '51.168908'
 lng: '-0.839623'
-location: 'Alice Holt Forest Café, Hardings Road, Bucks Horn Oak, Binsted, East Hampshire, Hampshire, England, GU10 4LF, United Kingdom'
+location: 'Alice Holt Forest Café, Hardings Road, Bucks Horn Oak, Binsted, East Hampshire, Hampshire, GU10 4LF, United Kingdom'
 title: 'Alice Holt Forest Café'
 external_url: https://www.forestryengland.uk/alice-holt-forest
 ---

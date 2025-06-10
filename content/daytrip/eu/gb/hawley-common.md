@@ -4,7 +4,7 @@ date: "2025-06-02T06:54:53.758Z"
 poster: "popey"
 lat: "51.31635"
 lng: "-0.793772"
-location: "Hawley Common, Hawley, Hart, Hampshire, England, GU17 9HU, United Kingdom"
+location: "Hawley Common, Hawley, Hart, Hampshire, GU17 9HU, United Kingdom"
 title: "Hawley Common"
 external_url: https://www.hawleylake.org.uk/
 ---

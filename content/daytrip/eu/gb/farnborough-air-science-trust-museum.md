@@ -4,7 +4,7 @@ date: "2025-06-02T18:26:04.239Z"
 poster: "popey"
 lat: "51.282228"
 lng: "-0.753651"
-location: "Farnborough Air Science Trust Museum, Farnborough Road, Farnborough, Rushmoor, Hampshire, England, GU14 6TL, United Kingdom"
+location: "Farnborough Air Science Trust Museum, Farnborough Road, Farnborough, Rushmoor, Hampshire, GU14 6TL, United Kingdom"
 title: "Farnborough Air Science Trust Museum"
 external_url: https://airsciences.org.uk/about-fast/
 ---

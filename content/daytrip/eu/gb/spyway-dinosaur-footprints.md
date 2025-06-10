@@ -4,7 +4,7 @@ date: '2025-06-01T21:34:04.601Z'
 poster: 'plett'
 lat: '50.602125'
 lng: '-2.020162'
-location: "Spyway Dinosaur Footprints, Priest's Way, Langton Matravers, Worth Matravers, Dorset, England, BH19 3LB, United Kingdom"
+location: "Spyway Dinosaur Footprints, Priest's Way, Langton Matravers, Worth Matravers, Dorset, BH19 3LB, United Kingdom"
 title: 'Spyway Dinosaur Footprints'
 external_url: https://dorset-nl.org.uk/location/spyway/
 ---

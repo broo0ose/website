@@ -4,7 +4,7 @@ date: '2025-05-31T14:48:53.286Z'
 poster: 'Retrodome'
 lat: '53.54889'
 lng: '-1.480485'
-location: 'Retrodome, Thomas Street, Worsbrough Common, Kingstone, Barnsley, South Yorkshire, England, S70 1LH, United Kingdom'
+location: 'Retrodome, Thomas Street, Worsbrough Common, Kingstone, Barnsley, South Yorkshire, S70 1LH, United Kingdom'
 title: 'Retrodome'
 external_url: https://retrodome.co.uk
 ---

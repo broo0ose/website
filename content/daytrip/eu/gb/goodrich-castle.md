@@ -1,7 +1,7 @@
 ---
 slug: "daytrip/eu/gb/goodrich-castle.md"
 title: Goodrich Castle
-location: Goodrich Castle, Castle Lane, Goodrich, Herefordshire, England, HR9 6HL, United Kingdom
+location: Goodrich Castle, Castle Lane, Goodrich, Herefordshire, HR9 6HL, United Kingdom
 poster: popey
 date: '2025-05-23T15:27:43+01:00'
 lat: '51.876734'

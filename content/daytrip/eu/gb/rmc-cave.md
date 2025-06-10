@@ -1,7 +1,7 @@
 ---
 slug: "daytrip/eu/gb/rmc-cave"
 title: RMC Cave
-location: Renegade Retro Repairs, Belvedere Mews, Chalford Hill, Chalford, Stroud, Gloucestershire, England, GL6 8PF, United Kingdom
+location: Renegade Retro Repairs, Belvedere Mews, Chalford Hill, Chalford, Stroud, Gloucestershire, GL6 8PF, United Kingdom
 poster: popey
 date: '2025-05-23T13:21:55+01:00'
 lat: '51.720677'

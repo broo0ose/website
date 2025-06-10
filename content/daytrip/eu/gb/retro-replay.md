@@ -4,7 +4,7 @@ date: "2025-06-10T09:33:45.421Z"
 poster: "Steve Engledow"
 lat: "52.62698"
 lng: "1.296458"
-location: "Retro Replay, 24-26, Castle Quarter, Norwich, Norfolk, England, NR1 3DD, United Kingdom"
+location: "Retro Replay, 24-26, Castle Quarter, Norwich, Norfolk, NR1 3DD, United Kingdom"
 title: "Retro Replay"
 external_url: https://www.retro-replay.games/
 ---

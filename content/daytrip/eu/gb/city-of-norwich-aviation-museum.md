@@ -4,7 +4,7 @@ date: "2025-06-10T09:32:59.671Z"
 poster: "Steve Engledow"
 lat: "52.680603"
 lng: "1.273262"
-location: "City of Norwich Aviation Museum, Old Norwich Road, Horsham St. Faith and Newton St. Faith, Horsham St Faith, Norwich, Norfolk, England, NR10 3JF, United Kingdom"
+location: "City of Norwich Aviation Museum, Old Norwich Road, Horsham St. Faith and Newton St. Faith, Horsham St Faith, Norwich, Norfolk, NR10 3JF, United Kingdom"
 title: "City of Norwich Aviation Museum"
 external_url: https://www.cnam.org.uk/
 ---

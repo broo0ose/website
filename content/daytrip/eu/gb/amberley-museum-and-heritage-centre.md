@@ -4,7 +4,7 @@ date: '2025-06-02T04:04:50.826Z'
 poster: 'plett'
 lat: '50.899254'
 lng: '-0.537708'
-location: 'Amberley Museum and Heritage Centre, New Barn Road, Amberley, Horsham, West Sussex, England, BN18 9LT, United Kingdom'
+location: 'Amberley Museum and Heritage Centre, New Barn Road, Amberley, Horsham, West Sussex, BN18 9LT, United Kingdom'
 title: 'Amberley Museum and Heritage Centre'
 external_url: https://www.amberleymuseum.co.uk/
 ---

@@ -4,7 +4,7 @@ date: "2025-06-02T08:55:58.047Z"
 poster: "Colin Beveridge"
 lat: "52.952098"
 lng: "-1.129386"
-location: "Green's Windmill, Belvoir Hill, Sneinton, Nottingham, East Midlands, England, NG2 4QB, United Kingdom"
+location: "Green's Windmill, Belvoir Hill, Sneinton, Nottingham, East Midlands, NG2 4QB, United Kingdom"
 title: "Green's Windmill"
 external_url: https://www.greensmill.org.uk/
 ---

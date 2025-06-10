@@ -4,7 +4,7 @@ date: "2025-06-08T11:29:32.808Z"
 poster: "Robin"
 lat: "53.483825"
 lng: "-1.227168"
-location: "Conisbrough Castle, Castle Hill, Conanby, Conisbrough, Doncaster, South Yorkshire, England, DN12 3BU, United Kingdom"
+location: "Conisbrough Castle, Castle Hill, Conanby, Conisbrough, Doncaster, South Yorkshire, DN12 3BU, United Kingdom"
 title: "Conisbrough Castle"
 external_url: https://www.english-heritage.org.uk/visit/places/conisbrough-castle/
 ---

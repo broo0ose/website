@@ -4,7 +4,7 @@ date: "2025-06-02T07:07:11.532Z"
 poster: "popey"
 lat: "52.188731"
 lng: "-2.220807"
-location: "Cathedral Church of Christ and the Blessed Mary, the Virgin of Worcester, College Yard, Diglis, Worcester, Worcestershire, England, WR1 2LA, United Kingdom"
+location: "Cathedral Church of Christ and the Blessed Mary, the Virgin of Worcester, College Yard, Diglis, Worcester, Worcestershire, WR1 2LA, United Kingdom"
 title: "Worcester Cathedral"
 external_url: https://www.worcestercathedral.org.uk/
 ---

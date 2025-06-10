@@ -1,7 +1,7 @@
 ---
 slug: "daytrip/eu/gb/ludlow-castle.md"
 title: Ludlow Castle
-location: Middle Wood Road, Ludlow, Shropshire, England, SY8 2JF, United Kingdom
+location: Middle Wood Road, Ludlow, Shropshire, SY8 2JF, United Kingdom
 poster: popey
 date: '2025-05-23T15:52:13'
 lat: '52.3671215'
